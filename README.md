@@ -11,7 +11,7 @@ newbee-mall 项目是一套电商系统，基于 Spring Boot 和 Vue 以及相�
 
 **vue3-admin** **版本线上预览地址：**[http://vue3-admin.newbee.ltd](http://vue3-admin.newbee.ltd)，测试账号密码：admin 123456
 
-## newbee-mall （新蜂商城）系列项目概览
+## newbee-mall 
 
 ![newbee-mall-course-2023](https://github.com/newbee-ltd/newbee-mall-cloud/raw/main/static-files/newbee-mall-course-2023.png)
 

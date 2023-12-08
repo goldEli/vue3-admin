@@ -2,7 +2,6 @@
 
 Vue3 + Vite + Vue-Router + Element-Plus + Echarts + Axios 后台管理系统。
 
-![vue3-admin-summary](https://13-doc.oss-cn-beijing.aliyuncs.com/images/2022/03/vue3-admin-summary.png)
 
 ![Build Status](https://img.shields.io/badge/build-passing-green.svg)
 ![Version 3.0.0](https://img.shields.io/badge/version-3.0.0-yellow.svg)
@@ -72,22 +71,6 @@ newbee-mall 项目是一套电商系统，基于 Spring Boot 和 Vue 以及相�
 - [pm2 实现一键部署云端服务器](https://juejin.cn/book/6933939264455442444)
 - [常见问题汇总讲解](https://juejin.cn/book/6933939264455442444)
 
-## 联系作者
-
-> 大家有任何问题或者建议都可以在 [issues](https://github.com/newbee-ltd/vue3-admin/issues) 中反馈给我，我会慢慢完善这个项目。
-
-- 我的邮箱：2449207463@qq.com
-- QQ技术交流群：707779034 932227898 552142710
-
-关注公众号：**程序员十三**，回复"勾搭"进群交流。
-
-![wx-gzh](https://newbee-mall.oss-cn-beijing.aliyuncs.com/wx-gzh/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8D%81%E4%B8%89-%E5%85%AC%E4%BC%97%E5%8F%B7.png)
-
-## 软件著作权
-
->本系统已申请软件著作权，受国家版权局知识产权以及国家计算机软件著作权保护！
-
-![](https://newbee-mall.oss-cn-beijing.aliyuncs.com/poster/store/newbee-mall-copyright.png)
 
 ## 页面展示
 
@@ -104,10 +87,4 @@ newbee-mall 项目是一套电商系统，基于 Spring Boot 和 Vue 以及相�
 - [Echarts](https://echarts.apache.org/zh/index.html)
 - [Axios](http://www.axios-js.com/)
 
-## 捐助
 
-全部捐赠，将用于后续的开源项目和服务器的开销
-
-| 支付宝 | 微信支付 | QQ钱包 | 
-| :------: | :------: |  :------: | 
-| <img width="200" height="200"  src="https://s.yezgea02.com/1617009373128/4771617009362_.pic.jpg"> | <img width="200" height="200" src="https://s.yezgea02.com/1617009369561/4761617009362_.pic.jpg"> | <img width="200" height="200" src="https://s.yezgea02.com/1617009376339/4781617009362_.pic.jpg"> | 
